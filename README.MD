@@ -19,6 +19,11 @@ The goal of the project is not to build a production trading strategy, but to
 demonstrate the **machine learning workflow used in quantitative finance research**, 
 including data preparation, feature engineering, model optimization, and evaluation.
 
+## Research Question
+
+Can market uncertainty (VIX) and public recession sentiment (Google Trends) 
+provide predictive signals for short-term price movements in the healthcare sector ETF (XLV)?
+
 ---
 
 ## Data Sources
