@@ -64,19 +64,19 @@ The workflow includes:
 
 ## Project Structure
 
-xlv-volatility-sentiment-ml
-│
-├── data/
-│ └── raw_data_files
-│
-├── notebooks/
-│ └── project_starter.ipynb
-│
-├── results/
-│ └── model_outputs
-│
-├── README.md
-└── requirements.txt
+xlv-volatility-sentiment-ml <br>
+│ <br>
+├── data/ <br>
+│ └── raw_data_files <br>
+│ <br>
+├── notebooks/ <br>
+│ └── project_starter.ipynb <br>
+│ <br>
+├── results/ <br>
+│ └── model_outputs <br>
+│ <br>
+├── README.md <br>
+└── requirements.txt <br>
 
 
 ---
